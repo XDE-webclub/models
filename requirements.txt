@@ -1,1 +1,5 @@
 reflex==0.4.9
+openai
+joblib
+scikit-learn
+pillow
